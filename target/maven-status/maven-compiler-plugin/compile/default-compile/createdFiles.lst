@@ -1,0 +1,5 @@
+com\tank\dao\UserDao.class
+com\tank\controller\MainController.class
+com\tank\model\User.class
+com\tank\service\impl\UserServiceImpl.class
+com\tank\service\UserService.class
